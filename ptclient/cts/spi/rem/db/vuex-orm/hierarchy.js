@@ -1,3 +1,3 @@
-export * from './rowstatus.js'
+export * from './rowstatus'
 
-export * from './rem.js'
+export * from './rem'
